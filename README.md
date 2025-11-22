@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://your-profile-image-url.png" alt="Profile" width="200" style="border-radius: 50%"/>
   
-  <h1>Bahodir</h1>
+  <h1>Usmon</h1>
   
   <h2>👋 Assalomu alaykum, Xush kelibsiz! 👨‍💻</h2>
   
