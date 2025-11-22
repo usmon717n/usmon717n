@@ -1,16 +1,29 @@
-## Hi there 👋
+# Salom, men Jigar 🫂
 
-<!--
-**usmon717n/usmon717n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Men dasturlash, texnologiya va data faniga qiziqaman.  
+Quyida mening sevimli texnologiyalarim logolari aylanib yuradi:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<marquee behavior="scroll" direction="left" scrollamount="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JS Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5 Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3 Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+</marquee>
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JS Logo" style="margin:10px;" onmouseover="this.style.width='80px';this.style.height='80px';" onmouseout="this.style.width='60px';this.style.height='60px';">
+</marquee>
+
+---
+
+## Kontaktlar:
+- [GitHub](https://github.com/usmon717n)  
+- [LinkedIn](https://linkedin.com/in/quvonchbek-umaraliyev)  
+- [Telegram](https://t.me/umaraliyew7)
+- [Instagram]((https://www.instagram.com/umaraliyew7/))
