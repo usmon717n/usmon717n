@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-profile-image-url.png" alt="Profile" width="200" style="border-radius: 50%"/>
+  <img src="https://me.jpg" alt="Profile" width="200" style="border-radius: 50%"/>
   
   <h1>Usmon</h1>
   
